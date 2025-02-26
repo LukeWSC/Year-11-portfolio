@@ -18,10 +18,16 @@
   .topnav a:hover {
     background-color: #ddd;
     color: black;
+    border-color: #ddd;
+    border-width: 1px;
+    border-style: solid;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #ffffff;
-    color: white;
+    color: rgb(0, 0, 0); 
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: inset;
   }
