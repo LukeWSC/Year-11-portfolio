@@ -91,12 +91,12 @@ body{
   .overview {
     text-align: center;
     color: hsl(0, 0%, 0%);
-    padding: 120px 500px;
+    padding: 160px 1px;
     text-decoration: none;
     font-size: 20px;
     display: inline-block; 
     margin: 0 auto;
-    width: 5%;
+    width: 80%;
     background-color: #deb5d2;
     border-color: #685165;
     border-width: 1px;
