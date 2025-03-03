@@ -1,4 +1,8 @@
 /* Add a black background color to the top navigation */
+body{
+  background-color: #fad9f8;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -16,18 +20,87 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #756673;
     color: black;
-    border-color: #ddd;
+    border-color: #756673;
     border-width: 1px;
     border-style: solid;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #ffffff;
+    background-color: hsl(289, 100%, 96%);
     color: rgb(0, 0, 0); 
     border-color: rgb(0, 0, 0);
     border-width: 1px;
     border-style: inset;
   }
+
+  .midnav a {
+    text-align: center;
+    color: #000000;
+    padding: 50px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block; 
+    margin: 0 auto;
+    width: 5%;
+    background-color: #cba8c1;
+    border-color: #ad87a9;
+    border-width: 1px;
+    border-style: solid;
+  }
+
+  .midnav a:hover {
+    background-color: #7f5c7a;
+    color: black;
+    border-color: #70586e;
+    border-width: 1px;
+    border-style: solid;
+  }
+
+  .midnav {
+    text-align: center;
+  }
+
+  .finalnav a {
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+    padding: 30px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block; 
+    margin: 0 auto;
+    width: 5%;
+    background-color: #deb5d2;
+    
+  }
+
+  .finalnav a:hover {
+    background-color: #a883a4;
+    color: black;
+    border-color: #685165;
+    border-width: 1px;
+    border-style: solid;
+  }
+
+  .finalnav {
+    text-align: center;
+  }
+
+  .overview {
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+    padding: 120px 500px;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block; 
+    margin: 0 auto;
+    width: 5%;
+    background-color: #deb5d2;
+    border-color: #685165;
+    border-width: 1px;
+    border-style: solid;
+  }
+
+  .center {text-align: center;}
