@@ -29,5 +29,5 @@
     color: rgb(0, 0, 0); 
     border-color: rgb(0, 0, 0);
     border-width: 1px;
-    border-style: inset;
+    border-style: solid;
   }
