@@ -42,20 +42,20 @@ body{
   .midnav a {
     text-align: center;
     color: #000000;
-    padding: 50px 30px;
+    padding: 100px 60px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 40px;
     display: inline-block; 
     margin: 0 auto;
-    width: 5%;
-    background-color: #cba8c1;
+    width: 15%;
+    background-color: #e0b5d5;
     border-color: #ad87a9;
     border-width: 1px;
     border-style: solid;
   }
 
   .midnav a:hover {
-    background-color: #7f5c7a;
+    background-color: #b494b0;
     color: black;
     border-color: #70586e;
     border-width: 1px;
@@ -69,13 +69,13 @@ body{
   .finalnav a {
     text-align: center;
     color: hsl(0, 0%, 0%);
-    padding: 30px 10px;
+    padding: 90px 50px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
     display: inline-block; 
     margin: 0 auto;
-    width: 5%;
-    background-color: #deb5d2;
+    width: 10%;
+    background-color: #ddb1d1;
     
   }
 
@@ -107,3 +107,8 @@ body{
   }
 
   .center {text-align: center;}
+
+  h1 {
+    font-size: 75px;
+    text-align: center;
+  }
