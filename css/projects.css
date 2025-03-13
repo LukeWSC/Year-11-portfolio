@@ -190,3 +190,17 @@ body{
         border-width: 1px;
         border-style: solid;}
     
+      .overview {
+        text-align: left;
+        color: hsl(0, 0%, 0%);
+        padding: 140px 2px;
+        text-decoration: none;
+        font-size: 20px;
+        display: inline-block; 
+        margin: 0 auto;
+        width: 80%;
+        background-color: #deb5d2;
+        border-color: #685165;
+        border-width: 1px;
+        border-style: solid;
+      }
