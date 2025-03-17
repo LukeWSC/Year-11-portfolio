@@ -204,3 +204,25 @@ body{
         border-width: 1px;
         border-style: solid;
       }
+      .lan{
+        text-align: left;
+      }
+
+      .html{
+        height: 320px;
+        width: 320px;
+      }
+
+      .css{
+        height: 320px;
+        width: 230px;
+      }
+      .ble {
+        height: 250px;
+        width: 250px;
+      }
+      .git {
+        height: 250px;
+        width: 425px;
+      }
+
