@@ -116,12 +116,12 @@ body{
     h3 {
         text-align: left;
         color: hsl(0, 0%, 0%);
-        padding: 149px 1px;
+        padding: 110px 90px;
         text-decoration: none;
         font-size: 20px;
         display: inline-block; 
         margin: 0 auto;
-        width: 50%;
+        width: 40%;
         background-color: #deb5d2;
         border-color: #685165;
         border-width: 1px;
