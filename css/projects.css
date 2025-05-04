@@ -146,8 +146,8 @@ body{
     
     .projimage {
         float: right;
-        height: 425px;
-        width: 425px;
+        height: 350px;
+        width: 350px;
         margin: 10px;
         border-color: rgb(0, 0, 0);
         border-width: 2px;
@@ -209,21 +209,29 @@ body{
       }
 
       .html{
-        height: 320px;
-        width: 320px;
+        height: 280px;
+        width: 280px;
       }
 
       .css{
-        height: 320px;
-        width: 230px;
+        height: 280px;
+        width: 200px;
       }
       .ble {
-        height: 250px;
-        width: 250px;
+        height: 225px;
+        width: 240px;
       }
       .git {
-        height: 250px;
-        width: 425px;
+        height: 220px;
+        width: 220px;
+      }
+      .java {
+        height: 300px;
+        width: 300px;
+      }
+      .pyt {
+        height: 220px;
+        width: 220px;
       }
 
       .RightTitle {
