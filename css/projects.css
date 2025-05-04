@@ -248,3 +248,7 @@ body{
           border-radius: 100px;
           }
 
+        .bold{
+          font: bold;
+        }
+
