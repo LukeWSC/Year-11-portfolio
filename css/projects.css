@@ -109,7 +109,7 @@ body{
     .center {text-align: center;}
   
     h1 {
-      font-size: 75px;
+      font-size: 71px;
       font-family:'Lucida Handwriting';
     }
 
@@ -226,7 +226,7 @@ body{
         width: 220px;
       }
       .java {
-        height: 300px;
+        height: 270px;
         width: 300px;
       }
       .pyt {
